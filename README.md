@@ -3,6 +3,7 @@ Snake Game 🐍
 A classic Snake Game implemented using React.js. Navigate the snake, eat food, and grow as long as possible without colliding with walls or yourself!
 
 
+
 Features
 
 🎮 Classic Snake gameplay
